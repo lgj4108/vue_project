@@ -1,4 +1,4 @@
-# board_project
+# board-project
 
 > A Vue.js project
 
